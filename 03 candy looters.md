@@ -27,7 +27,16 @@
    - **Behavior:** Choco is smooth and unnervingly calm, murmuring things like, “Everything melts eventually…”  
    - **Horrifying Power:** Choco melts into an acidic sludge that burns through flesh and bone, leaving behind a skeletal mess. They reform from the sludge, seemingly unharmed.  
 
----
+### **Enemies**
+
+1. **Orc (Reskinned)**  
+   - **Why:** Orcs can be reskinned as aggressive, regular humans with basic combat skills. Their stats are ideal for representing looters who are tough but not overly skilled.
+
+2. **Soldier (Reskinned)**  
+   - **Why:** Soldiers can serve as a baseline for looters with moderate training or more organized aggression. Strip out advanced tactics to fit their lack of discipline.
+
+3. **Zombie (Reskinned)**  
+   - **Why:** Reskin as desperate or frenzied civilians. While not mindless like zombies, their relentless behavior can represent looters driven by chaos and desperation.
 
 ### **Starting Area Description (Read Aloud):**  
 "The convenience store buzzes faintly with fluorescent lights as looters yell and grab armfuls of snacks, knocking over shelves and shoving each other aside. Broken glass and spilled soda puddles cover the floor.  
