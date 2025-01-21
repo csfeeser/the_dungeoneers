@@ -34,6 +34,23 @@
    - **Hindrances:** Stubborn (Minor)  
    - **Notes:** The station's weary but dependable security guard, with a strong build and a no-nonsense attitude. He’s skeptical of authority and hard to sway.
 
+### **Enemies**
+
+1. **Mech**  
+   - **Why:** Obvious choice for a steampunk robot. Its stats and description already align with your need for a mechanical, menacing presence. Perfect for smashing into the newsroom or blocking an exit.
+
+2. **Skeleton**  
+   - **Why:** With a bit of reskinning, skeletons could be described as "clockwork constructs" or "mechanical humanoids." Their low durability makes them ideal for swarming or harassing players.
+
+3. **Giant Spider (Reskinned)**  
+   - **Why:** Reimagine them as "clockwork spiders" for steampunk flair. They’re quick, dangerous, and can disable characters or equipment, fitting the scenario’s sabotage and chaos themes.
+
+4. **Swarm**  
+   - **Why:** A swarm of tiny clockwork devices (e.g., mechanical insects) can overwhelm players while disabling equipment or blocking paths. Mechanically, this works exactly like the swarm in the compendium.
+
+5. **Ogre (Reskinned)**  
+   - **Why:** Turn the ogre into a large, lumbering steampunk construct. It becomes a bruiser enemy with enough strength to smash through walls or crush equipment, creating environmental hazards.
+
 ## **Starting Area Description (Read Aloud):**  
 
 "The newsroom is sterile and professional, the hum of computers and the faint crackle of intercom chatter the only sounds cutting through the tense silence. Through the large glass windows, chaos is visible outside: sirens wail, shadows dart between the cars below, and distant screams echo faintly.  
