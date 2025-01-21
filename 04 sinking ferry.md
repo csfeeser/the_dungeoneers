@@ -28,7 +28,28 @@
    - **Role:** A con artist trying to save himself but occasionally forced to step up for others.  
    - **Roleplay Details:** Hal is selfish and opportunistic, prone to pocketing supplies or cutting corners. He may try to abandon others but struggles with guilt when confronted.  
 
----
+### **Expanded Aquatic Enemies**
+
+1. **Water Elemental (Reskinned as Kraken Tentacles)**  
+   - **Why:** Represent parts of a massive kraken. Each elemental could be a single tentacle emerging from the depths, attacking independently, and creating environmental hazards like swirling water or crashing waves.
+
+2. **Great White Shark (Reskinned as Sea Serpent)**  
+   - **Why:** Modify its description to represent a serpentine creature, giving it elongated form and terrifying, snapping jaws. Its predatory stats fit a sea serpent's aggressive nature.
+
+3. **Ogre (Reskinned as Merrow)**  
+   - **Why:** Use ogres to represent hulking aquatic brutes like merrows or deep-sea giants. Their raw strength and resilience translate well into an underwater battle.
+
+4. **Giant Spider (Reskinned as Giant Crab)**  
+   - **Why:** Adapt into a giant crab with powerful pincers and a tough, shelled exterior. Perfect for battles near reefs or wreckage.
+
+5. **Swarm (Reskinned as Schools of Aggressive Fish)**  
+   - **Why:** Represent a school of piranha-like creatures or parasitic fish. Swarm rules work well for overwhelming, chaotic underwater encounters.
+
+6. **Troll (Reskinned as Sea Troll or Deep One)**  
+   - **Why:** Adjust its regenerative abilities to work underwater, representing a classic sea troll or deep-sea humanoid monster. Its durability and brute force fit the theme.
+
+7. **Dragon (Reskinned as Leviathan)**  
+   - **Why:** Use a dragon's stats to represent a massive leviathan or sea dragon. Focus on aquatic movement and breath attacks, such as a torrent of water or ice.
 
 ### **Starting Area Description (Read Aloud):**  
 "The ferry rocks violently, throwing passengers and luggage across the deck. The lights flicker as the sound of a metallic groan reverberates through the hull. Water begins rushing in from the lower deck, and passengers scream, scrambling for life vests and exits.  
