@@ -27,7 +27,23 @@
    - **Dino Chasing Him:** Pterodactyl Pack – Swarming and dive-bombing, trying to pluck him out of the cockpit.  
    - **Roleplay Details:** Ollie is a panicked cameraman who screams things like, “Why did I think I could do this?!” but somehow manages to keep the helicopter barely functional.  
 
----
+### **Dinosaurs**
+
+1. **Tyrannosaurus Rex**  
+   - **Suggested:** **Minotaur (Reskinned)**  
+   - **Why:** Use the minotaur as a base for a large, powerful predator. Adjust melee attacks to represent the T-Rex’s devastating bite and scale up its size for dramatic encounters.
+
+2. **Velociraptor**  
+   - **Suggested:** **Raptor (Birds of Prey)**  
+   - **Why:** The raptor already fits the role with speed and deadly attacks. Reskin it as a ground-based dinosaur with sharp claws and pack-hunting behavior.
+
+3. **Mesosaurus/Plesiosaur**  
+   - **Suggested:** **Shark, Great White (Reskinned)**  
+   - **Why:** The great white shark can easily represent a deadly aquatic dinosaur. Adjust its description to give it a long, serpentine body and reptilian features.
+
+4. **Pterodactyl**  
+   - **Suggested:** **Dire Wolf (Reskinned)**  
+   - **Why:** Reskin as a flying predator with sharp talons and a dive attack. While not a perfect match, its speed and ferocity can simulate aerial ambushes effectively.
 
 ### **Starting Area Description (Read Aloud):**  
 "The chaos of the portal is tearing the landscape apart. Each of you finds yourself alone, separated by miles of dense jungle, raging rivers, and open skies, with one terrifying reality: you are being hunted.  
