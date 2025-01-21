@@ -19,6 +19,17 @@
    - **Archetype:** Criminal  
    - **Spells:** **Obscure** (Create cover), **Blast** (Area magical attack).  
 
+### **Enemies**
+
+1. **Dire Wolf (Reskinned)**  
+   - **Why:** Reskin as "eyeless humanoid crawlers" with enhanced speed and ferocity. Use their quickness and vicious attacks to emulate the terrifying nature of these creatures.
+
+2. **Spider, Giant (Reskinned)**  
+   - **Why:** Adapt as ceiling-crawling monstrosities. Their climbing ability and venomous attacks can simulate the danger of creatures tearing through characters with unnatural precision.
+
+3. **Zombie (Reskinned)**  
+   - **Why:** Represent the humanoid attackers' frenzied nature. Their durability and relentless pursuit of prey fit the theme of these horrifying, flesh-ripping monsters.
+
 ### Conflicts
 
 1. **Secrecy vs. Exposure** *(Naomi vs. Marcus)*  
